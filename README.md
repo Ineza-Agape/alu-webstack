@@ -1,1 +1,2 @@
-Readme file for HTTPS SSL
+Final resolved content of README.md
+
