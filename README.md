@@ -1,2 +1,2 @@
-Final resolved content of README.md
+README for https
 
